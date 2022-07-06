@@ -423,22 +423,22 @@ public static class Moogle
         }
         return min;
     }
-    public static List<string> Operator(List<string> query, string o)
+    public static List<string> Operator(List<string> query, string operador)
     {
         // se retorna un operador valido para realizar la busqueda
         List<string> queryReturn = new List<string>();
         for (int i = 0; i < query.Count; i++)
         {
-            if (query[i].StartsWith(o)) queryReturn.Add(query[i].ToString().Replace(o, ""));
+            if (query[i].StartsWith(operador)) queryReturn.Add(query[i].ToString().Replace(operador, ""));
         }
         return queryReturn;
     }
-    public static List<string> CleanNearbyOperator(List<string> query, string o)
+    public static List<string> CleanNearbyOperator(List<string> query, string operador)
     {
         List<string> query_return = new List<string>();
         for (int i = 0; i < query.Count(); i++)
         {
-            try { if (query[i].StartsWith(o)) { query_return.Add(query[i - 1]); query_return.Add(query[i + 1]); } }
+            try { if (query[i].StartsWith(operador)) { query_return.Add(query[i - 1]); query_return.Add(query[i + 1]); } }
             catch (Exception e) { Cleanup(); }
         }
         return query_return;
@@ -504,12 +504,12 @@ public static class Moogle
         return queryReturn;
     }
 
-    public static List<string> CleanOperatorRelevanceExtra(List<string> query, string o)
+    public static List<string> CleanOperatorRelevanceExtra(List<string> query, string operador)
     {
         List<string> query_return = new List<string>();
         for (int i = 0; i < query.Count; i++)
         {
-            query_return.Add(query[i].Replace(o, ""));
+            query_return.Add(query[i].Replace(operador, ""));
         }
         return query_return;
     }
