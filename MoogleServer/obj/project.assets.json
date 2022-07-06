@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\!Carrera\\1er Año Programacion\\Moogle 1 Año\\new for classes\\Proyecto Final José Antonio Concepción C111-1\\Proyecto Final José Antonio Concepción C111\\MoogleServer\\MoogleServer.csproj",
+      "projectUniqueName": "D:\\!Carrera\\1er Año Programacion\\Moogle 1 Año\\new for classes\\Moogle\\MoogleServer\\MoogleServer.csproj",
       "projectName": "MoogleServer",
-      "projectPath": "D:\\!Carrera\\1er Año Programacion\\Moogle 1 Año\\new for classes\\Proyecto Final José Antonio Concepción C111-1\\Proyecto Final José Antonio Concepción C111\\MoogleServer\\MoogleServer.csproj",
+      "projectPath": "D:\\!Carrera\\1er Año Programacion\\Moogle 1 Año\\new for classes\\Moogle\\MoogleServer\\MoogleServer.csproj",
       "packagesPath": "C:\\Users\\conce\\.nuget\\packages\\",
-      "outputPath": "D:\\!Carrera\\1er Año Programacion\\Moogle 1 Año\\new for classes\\Proyecto Final José Antonio Concepción C111-1\\Proyecto Final José Antonio Concepción C111\\MoogleServer\\obj\\",
+      "outputPath": "D:\\!Carrera\\1er Año Programacion\\Moogle 1 Año\\new for classes\\Moogle\\MoogleServer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\conce\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -51,8 +51,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\!Carrera\\1er Año Programacion\\Moogle 1 Año\\new for classes\\Proyecto Final José Antonio Concepción C111-1\\Proyecto Final José Antonio Concepción C111\\MoogleEngine\\MoogleEngine.csproj": {
-              "projectPath": "D:\\!Carrera\\1er Año Programacion\\Moogle 1 Año\\new for classes\\Proyecto Final José Antonio Concepción C111-1\\Proyecto Final José Antonio Concepción C111\\MoogleEngine\\MoogleEngine.csproj"
+            "D:\\!Carrera\\1er Año Programacion\\Moogle 1 Año\\new for classes\\Moogle\\MoogleEngine\\MoogleEngine.csproj": {
+              "projectPath": "D:\\!Carrera\\1er Año Programacion\\Moogle 1 Año\\new for classes\\Moogle\\MoogleEngine\\MoogleEngine.csproj"
             }
           }
         }
