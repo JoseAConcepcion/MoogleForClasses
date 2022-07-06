@@ -1,0 +1,72 @@
+E:/Jose/!Cosas Carrera/Escuela Evea/1er Año Programacion/First project moogle-2021/MoogleEngine/bin/Debug/net6.0/MoogleEngine.deps.json
+E:/Jose/!Cosas Carrera/Escuela Evea/1er Año Programacion/First project moogle-2021/MoogleEngine/bin/Debug/net6.0/MoogleEngine.dll
+E:/Jose/!Cosas Carrera/Escuela Evea/1er Año Programacion/First project moogle-2021/MoogleEngine/bin/Debug/net6.0/ref/MoogleEngine.dll
+E:/Jose/!Cosas Carrera/Escuela Evea/1er Año Programacion/First project moogle-2021/MoogleEngine/bin/Debug/net6.0/MoogleEngine.pdb
+E:/Jose/!Cosas Carrera/Escuela Evea/1er Año Programacion/First project moogle-2021/MoogleEngine/obj/Debug/net6.0/MoogleEngine.csproj.AssemblyReference.cache
+E:/Jose/!Cosas Carrera/Escuela Evea/1er Año Programacion/First project moogle-2021/MoogleEngine/obj/Debug/net6.0/MoogleEngine.GeneratedMSBuildEditorConfig.editorconfig
+E:/Jose/!Cosas Carrera/Escuela Evea/1er Año Programacion/First project moogle-2021/MoogleEngine/obj/Debug/net6.0/MoogleEngine.AssemblyInfoInputs.cache
+E:/Jose/!Cosas Carrera/Escuela Evea/1er Año Programacion/First project moogle-2021/MoogleEngine/obj/Debug/net6.0/MoogleEngine.AssemblyInfo.cs
+E:/Jose/!Cosas Carrera/Escuela Evea/1er Año Programacion/First project moogle-2021/MoogleEngine/obj/Debug/net6.0/MoogleEngine.csproj.CoreCompileInputs.cache
+E:/Jose/!Cosas Carrera/Escuela Evea/1er Año Programacion/First project moogle-2021/MoogleEngine/obj/Debug/net6.0/MoogleEngine.dll
+E:/Jose/!Cosas Carrera/Escuela Evea/1er Año Programacion/First project moogle-2021/MoogleEngine/obj/Debug/net6.0/ref/MoogleEngine.dll
+E:/Jose/!Cosas Carrera/Escuela Evea/1er Año Programacion/First project moogle-2021/MoogleEngine/obj/Debug/net6.0/MoogleEngine.pdb
+D:/!Carrera/1er Año Programacion/First project moogle-2021/MoogleEngine/bin/Debug/net6.0/MoogleEngine.deps.json
+D:/!Carrera/1er Año Programacion/First project moogle-2021/MoogleEngine/bin/Debug/net6.0/MoogleEngine.dll
+D:/!Carrera/1er Año Programacion/First project moogle-2021/MoogleEngine/bin/Debug/net6.0/ref/MoogleEngine.dll
+D:/!Carrera/1er Año Programacion/First project moogle-2021/MoogleEngine/bin/Debug/net6.0/MoogleEngine.pdb
+D:/!Carrera/1er Año Programacion/First project moogle-2021/MoogleEngine/obj/Debug/net6.0/MoogleEngine.csproj.AssemblyReference.cache
+D:/!Carrera/1er Año Programacion/First project moogle-2021/MoogleEngine/obj/Debug/net6.0/MoogleEngine.GeneratedMSBuildEditorConfig.editorconfig
+D:/!Carrera/1er Año Programacion/First project moogle-2021/MoogleEngine/obj/Debug/net6.0/MoogleEngine.AssemblyInfoInputs.cache
+D:/!Carrera/1er Año Programacion/First project moogle-2021/MoogleEngine/obj/Debug/net6.0/MoogleEngine.AssemblyInfo.cs
+D:/!Carrera/1er Año Programacion/First project moogle-2021/MoogleEngine/obj/Debug/net6.0/MoogleEngine.csproj.CoreCompileInputs.cache
+D:/!Carrera/1er Año Programacion/First project moogle-2021/MoogleEngine/obj/Debug/net6.0/MoogleEngine.dll
+D:/!Carrera/1er Año Programacion/First project moogle-2021/MoogleEngine/obj/Debug/net6.0/ref/MoogleEngine.dll
+D:/!Carrera/1er Año Programacion/First project moogle-2021/MoogleEngine/obj/Debug/net6.0/MoogleEngine.pdb
+D:/!Carrera/1er Año Programacion/Copy of First project moogle-2021/MoogleEngine/bin/Debug/net6.0/MoogleEngine.deps.json
+D:/!Carrera/1er Año Programacion/Copy of First project moogle-2021/MoogleEngine/bin/Debug/net6.0/MoogleEngine.dll
+D:/!Carrera/1er Año Programacion/Copy of First project moogle-2021/MoogleEngine/bin/Debug/net6.0/ref/MoogleEngine.dll
+D:/!Carrera/1er Año Programacion/Copy of First project moogle-2021/MoogleEngine/bin/Debug/net6.0/MoogleEngine.pdb
+D:/!Carrera/1er Año Programacion/Copy of First project moogle-2021/MoogleEngine/obj/Debug/net6.0/MoogleEngine.csproj.AssemblyReference.cache
+D:/!Carrera/1er Año Programacion/Copy of First project moogle-2021/MoogleEngine/obj/Debug/net6.0/MoogleEngine.GeneratedMSBuildEditorConfig.editorconfig
+D:/!Carrera/1er Año Programacion/Copy of First project moogle-2021/MoogleEngine/obj/Debug/net6.0/MoogleEngine.AssemblyInfoInputs.cache
+D:/!Carrera/1er Año Programacion/Copy of First project moogle-2021/MoogleEngine/obj/Debug/net6.0/MoogleEngine.AssemblyInfo.cs
+D:/!Carrera/1er Año Programacion/Copy of First project moogle-2021/MoogleEngine/obj/Debug/net6.0/MoogleEngine.csproj.CoreCompileInputs.cache
+D:/!Carrera/1er Año Programacion/Copy of First project moogle-2021/MoogleEngine/obj/Debug/net6.0/MoogleEngine.dll
+D:/!Carrera/1er Año Programacion/Copy of First project moogle-2021/MoogleEngine/obj/Debug/net6.0/ref/MoogleEngine.dll
+D:/!Carrera/1er Año Programacion/Copy of First project moogle-2021/MoogleEngine/obj/Debug/net6.0/MoogleEngine.pdb
+/media/antonio/New Volume/!Carrera/1er Año Programacion/proyecto Moogle 1er A/new for classes/Proyecto Final José Antonio Concepción C111-1/Proyecto Final José Antonio Concepción C111/MoogleEngine/bin/Debug/net6.0/MoogleEngine.deps.json
+/media/antonio/New Volume/!Carrera/1er Año Programacion/proyecto Moogle 1er A/new for classes/Proyecto Final José Antonio Concepción C111-1/Proyecto Final José Antonio Concepción C111/MoogleEngine/bin/Debug/net6.0/MoogleEngine.dll
+/media/antonio/New Volume/!Carrera/1er Año Programacion/proyecto Moogle 1er A/new for classes/Proyecto Final José Antonio Concepción C111-1/Proyecto Final José Antonio Concepción C111/MoogleEngine/bin/Debug/net6.0/ref/MoogleEngine.dll
+/media/antonio/New Volume/!Carrera/1er Año Programacion/proyecto Moogle 1er A/new for classes/Proyecto Final José Antonio Concepción C111-1/Proyecto Final José Antonio Concepción C111/MoogleEngine/bin/Debug/net6.0/MoogleEngine.pdb
+/media/antonio/New Volume/!Carrera/1er Año Programacion/proyecto Moogle 1er A/new for classes/Proyecto Final José Antonio Concepción C111-1/Proyecto Final José Antonio Concepción C111/MoogleEngine/obj/Debug/net6.0/MoogleEngine.csproj.AssemblyReference.cache
+/media/antonio/New Volume/!Carrera/1er Año Programacion/proyecto Moogle 1er A/new for classes/Proyecto Final José Antonio Concepción C111-1/Proyecto Final José Antonio Concepción C111/MoogleEngine/obj/Debug/net6.0/MoogleEngine.GeneratedMSBuildEditorConfig.editorconfig
+/media/antonio/New Volume/!Carrera/1er Año Programacion/proyecto Moogle 1er A/new for classes/Proyecto Final José Antonio Concepción C111-1/Proyecto Final José Antonio Concepción C111/MoogleEngine/obj/Debug/net6.0/MoogleEngine.AssemblyInfoInputs.cache
+/media/antonio/New Volume/!Carrera/1er Año Programacion/proyecto Moogle 1er A/new for classes/Proyecto Final José Antonio Concepción C111-1/Proyecto Final José Antonio Concepción C111/MoogleEngine/obj/Debug/net6.0/MoogleEngine.AssemblyInfo.cs
+/media/antonio/New Volume/!Carrera/1er Año Programacion/proyecto Moogle 1er A/new for classes/Proyecto Final José Antonio Concepción C111-1/Proyecto Final José Antonio Concepción C111/MoogleEngine/obj/Debug/net6.0/MoogleEngine.csproj.CoreCompileInputs.cache
+/media/antonio/New Volume/!Carrera/1er Año Programacion/proyecto Moogle 1er A/new for classes/Proyecto Final José Antonio Concepción C111-1/Proyecto Final José Antonio Concepción C111/MoogleEngine/obj/Debug/net6.0/MoogleEngine.dll
+/media/antonio/New Volume/!Carrera/1er Año Programacion/proyecto Moogle 1er A/new for classes/Proyecto Final José Antonio Concepción C111-1/Proyecto Final José Antonio Concepción C111/MoogleEngine/obj/Debug/net6.0/ref/MoogleEngine.dll
+/media/antonio/New Volume/!Carrera/1er Año Programacion/proyecto Moogle 1er A/new for classes/Proyecto Final José Antonio Concepción C111-1/Proyecto Final José Antonio Concepción C111/MoogleEngine/obj/Debug/net6.0/MoogleEngine.pdb
+D:\!Carrera\1er Año Programacion\proyecto Moogle 1er A\new for classes\Proyecto Final José Antonio Concepción C111-1\Proyecto Final José Antonio Concepción C111\MoogleEngine\bin\Debug\net6.0\MoogleEngine.deps.json
+D:\!Carrera\1er Año Programacion\proyecto Moogle 1er A\new for classes\Proyecto Final José Antonio Concepción C111-1\Proyecto Final José Antonio Concepción C111\MoogleEngine\bin\Debug\net6.0\MoogleEngine.dll
+D:\!Carrera\1er Año Programacion\proyecto Moogle 1er A\new for classes\Proyecto Final José Antonio Concepción C111-1\Proyecto Final José Antonio Concepción C111\MoogleEngine\bin\Debug\net6.0\ref\MoogleEngine.dll
+D:\!Carrera\1er Año Programacion\proyecto Moogle 1er A\new for classes\Proyecto Final José Antonio Concepción C111-1\Proyecto Final José Antonio Concepción C111\MoogleEngine\bin\Debug\net6.0\MoogleEngine.pdb
+D:\!Carrera\1er Año Programacion\proyecto Moogle 1er A\new for classes\Proyecto Final José Antonio Concepción C111-1\Proyecto Final José Antonio Concepción C111\MoogleEngine\obj\Debug\net6.0\MoogleEngine.csproj.AssemblyReference.cache
+D:\!Carrera\1er Año Programacion\proyecto Moogle 1er A\new for classes\Proyecto Final José Antonio Concepción C111-1\Proyecto Final José Antonio Concepción C111\MoogleEngine\obj\Debug\net6.0\MoogleEngine.GeneratedMSBuildEditorConfig.editorconfig
+D:\!Carrera\1er Año Programacion\proyecto Moogle 1er A\new for classes\Proyecto Final José Antonio Concepción C111-1\Proyecto Final José Antonio Concepción C111\MoogleEngine\obj\Debug\net6.0\MoogleEngine.AssemblyInfoInputs.cache
+D:\!Carrera\1er Año Programacion\proyecto Moogle 1er A\new for classes\Proyecto Final José Antonio Concepción C111-1\Proyecto Final José Antonio Concepción C111\MoogleEngine\obj\Debug\net6.0\MoogleEngine.AssemblyInfo.cs
+D:\!Carrera\1er Año Programacion\proyecto Moogle 1er A\new for classes\Proyecto Final José Antonio Concepción C111-1\Proyecto Final José Antonio Concepción C111\MoogleEngine\obj\Debug\net6.0\MoogleEngine.csproj.CoreCompileInputs.cache
+D:\!Carrera\1er Año Programacion\proyecto Moogle 1er A\new for classes\Proyecto Final José Antonio Concepción C111-1\Proyecto Final José Antonio Concepción C111\MoogleEngine\obj\Debug\net6.0\MoogleEngine.dll
+D:\!Carrera\1er Año Programacion\proyecto Moogle 1er A\new for classes\Proyecto Final José Antonio Concepción C111-1\Proyecto Final José Antonio Concepción C111\MoogleEngine\obj\Debug\net6.0\ref\MoogleEngine.dll
+D:\!Carrera\1er Año Programacion\proyecto Moogle 1er A\new for classes\Proyecto Final José Antonio Concepción C111-1\Proyecto Final José Antonio Concepción C111\MoogleEngine\obj\Debug\net6.0\MoogleEngine.pdb
+D:\!Carrera\1er Año Programacion\Moogle 1 Año\new for classes\Proyecto Final José Antonio Concepción C111-1\Proyecto Final José Antonio Concepción C111\MoogleEngine\bin\Debug\net6.0\MoogleEngine.deps.json
+D:\!Carrera\1er Año Programacion\Moogle 1 Año\new for classes\Proyecto Final José Antonio Concepción C111-1\Proyecto Final José Antonio Concepción C111\MoogleEngine\bin\Debug\net6.0\MoogleEngine.dll
+D:\!Carrera\1er Año Programacion\Moogle 1 Año\new for classes\Proyecto Final José Antonio Concepción C111-1\Proyecto Final José Antonio Concepción C111\MoogleEngine\bin\Debug\net6.0\ref\MoogleEngine.dll
+D:\!Carrera\1er Año Programacion\Moogle 1 Año\new for classes\Proyecto Final José Antonio Concepción C111-1\Proyecto Final José Antonio Concepción C111\MoogleEngine\bin\Debug\net6.0\MoogleEngine.pdb
+D:\!Carrera\1er Año Programacion\Moogle 1 Año\new for classes\Proyecto Final José Antonio Concepción C111-1\Proyecto Final José Antonio Concepción C111\MoogleEngine\obj\Debug\net6.0\MoogleEngine.csproj.AssemblyReference.cache
+D:\!Carrera\1er Año Programacion\Moogle 1 Año\new for classes\Proyecto Final José Antonio Concepción C111-1\Proyecto Final José Antonio Concepción C111\MoogleEngine\obj\Debug\net6.0\MoogleEngine.GeneratedMSBuildEditorConfig.editorconfig
+D:\!Carrera\1er Año Programacion\Moogle 1 Año\new for classes\Proyecto Final José Antonio Concepción C111-1\Proyecto Final José Antonio Concepción C111\MoogleEngine\obj\Debug\net6.0\MoogleEngine.AssemblyInfoInputs.cache
+D:\!Carrera\1er Año Programacion\Moogle 1 Año\new for classes\Proyecto Final José Antonio Concepción C111-1\Proyecto Final José Antonio Concepción C111\MoogleEngine\obj\Debug\net6.0\MoogleEngine.AssemblyInfo.cs
+D:\!Carrera\1er Año Programacion\Moogle 1 Año\new for classes\Proyecto Final José Antonio Concepción C111-1\Proyecto Final José Antonio Concepción C111\MoogleEngine\obj\Debug\net6.0\MoogleEngine.csproj.CoreCompileInputs.cache
+D:\!Carrera\1er Año Programacion\Moogle 1 Año\new for classes\Proyecto Final José Antonio Concepción C111-1\Proyecto Final José Antonio Concepción C111\MoogleEngine\obj\Debug\net6.0\MoogleEngine.dll
+D:\!Carrera\1er Año Programacion\Moogle 1 Año\new for classes\Proyecto Final José Antonio Concepción C111-1\Proyecto Final José Antonio Concepción C111\MoogleEngine\obj\Debug\net6.0\ref\MoogleEngine.dll
+D:\!Carrera\1er Año Programacion\Moogle 1 Año\new for classes\Proyecto Final José Antonio Concepción C111-1\Proyecto Final José Antonio Concepción C111\MoogleEngine\obj\Debug\net6.0\MoogleEngine.pdb

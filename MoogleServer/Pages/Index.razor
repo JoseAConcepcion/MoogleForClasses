@@ -1,0 +1,110 @@
+﻿
+@page "/"
+
+<PageTitle>Moogle!</PageTitle>
+
+<style>
+    body{
+        background-color: lightskyblue;
+    }
+div.full{
+    
+    border-color: yellow;
+    font-family: 'Times New Roman', Times, serif;
+}
+#rcorners2 {
+  border-radius: 25px;
+  border: 2px solid #73AD21;
+  padding: 20px; 
+  width: 200px;
+  height: 80px;
+  font-family: 'Times New Roman', Times, serif;
+  
+}
+h1.sticky {
+
+  position: sticky;
+  background-color: white;
+  border-radius: 25px;
+  top: 0;
+  padding: 5px;
+  border: 2px solid blue;
+  color: red;
+  margin: 5px;
+  font-family: 'Times New Roman', Times, serif;
+}
+p.title{
+    text-align: center;
+    text-transform: uppercase;
+    color: red;
+    border-radius: 25px;
+    border: 2px solid black;
+    background-color: white;
+    margin: 5px;
+    font-family: 'Times New Roman', Times, serif;
+}
+p.snippet{
+    color: blue;
+    border-radius: 20px;
+    border: 2px solid black;
+    background-color: cyan;
+    font-family: 'Times New Roman', Times, serif;
+}
+div.suggestion{
+    border-radius: 25px;
+    border: 2px solid black;
+    background-color: lightgreen;
+    margin: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+input.in{
+    border-radius: 25px;
+    border: 5px black;
+    background-color: lightslategray;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    width: auto;
+}
+</style>
+
+<div class="full">
+    <h1 class="sticky">🔍 Moogle!</h1>
+
+    <input class="in" @bind="query" placeholder="Introduzca su búsqueda">
+
+    <button type="default" class="btn btn-primary" @onclick="RunQuery">🔍 Buscar</button>
+
+    @if (!string.IsNullOrEmpty(result.Suggestion)) {
+        <div class="suggestion">
+            <p>¿Quisiste decir <strong><a @onclick= "SuggestedSearch" >@result.Suggestion</a></strong>? 🤔</p>
+        </div>
+    }
+
+    <ul class="results">
+        @foreach (var item in result.Items()) {
+            <li>
+                <div class="item">
+                    <p class="title">@item.Title</p>
+                    <p class="snippet">... @item.Snippet ...</p>
+                </div>
+            </li>
+        }
+    </ul>
+
+    @code {
+        private string query = "";
+        private SearchResult result = new SearchResult();
+
+        private void RunQuery() {
+            result = Moogle.Query(query);
+        }
+
+        private void SuggestedSearch()
+        {
+            query = result.Suggestion;
+            RunQuery();
+        }
+    }
+</div>
+
