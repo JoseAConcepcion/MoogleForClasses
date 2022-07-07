@@ -380,7 +380,7 @@ public static class Moogle
                     nearbyFinal[k] = nearbyFinal[k] + tempCercanos[k];
                 }
             }
-            catch (Exception e) {Cleanup();}
+            catch (Exception e) { Cleanup(); }
 
         }
         return nearbyFinal;
@@ -388,36 +388,37 @@ public static class Moogle
     private static float[] DoNearby(string firstWord, string secondWord)
     {
         //se recorren los archivos y se determina la menor cercania de las dos palabras
-        
+
         float[] min = new float[_directories.Length];
         for (int i = 0; i < _directories.Length; i++)
         {
             if (CheckExistance(_directories[i], firstWord) && CheckExistance(_directories[i], secondWord))
             {
-                if(firstWord == secondWord)
-                {min[i] = 1;}
-                else{
-                int temp1 = 0;
-                int temp2 = 0;
-                List<int> farness = new List<int>();
-                bool match1 = false;
-                bool match2 = false;
-                for (int k = 0; k < _titleDocs[_directories[i]].Count; k++)
+                if (firstWord == secondWord)
+                { min[i] = 1; }
+                else
                 {
-                    if (firstWord == _titleDocs[_directories[i]][k]) { temp1 = k; match1 = true; }
-                    if (secondWord == _titleDocs[_directories[i]][k]) { temp2 = k; match2 = true; }
-
-                    if (match1 && match2)
+                    int temp1 = 0;
+                    int temp2 = 0;
+                    List<int> farness = new List<int>();
+                    bool match1 = false;
+                    bool match2 = false;
+                    for (int k = 0; k < _titleDocs[_directories[i]].Count; k++)
                     {
-                        if ((temp1 - temp2) > 0) farness.Add(temp1 - temp2);
-                        if ((temp2 - temp1) > 0) farness.Add(temp2 - temp1);
-                        if ((temp1 - temp2) == 0) farness.Add(1);
-                        match1 = false; match2 = false;
-                        k--;
+                        if (firstWord == _titleDocs[_directories[i]][k]) { temp1 = k; match1 = true; }
+                        if (secondWord == _titleDocs[_directories[i]][k]) { temp2 = k; match2 = true; }
+
+                        if (match1 && match2)
+                        {
+                            if ((temp1 - temp2) > 0) farness.Add(temp1 - temp2);
+                            if ((temp2 - temp1) > 0) farness.Add(temp2 - temp1);
+                            if ((temp1 - temp2) == 0) farness.Add(1);
+                            match1 = false; match2 = false;
+                            k--;
+                        }
                     }
+                    min[i] = 1 / (farness.Min());
                 }
-                min[i] = 1 / (farness.Min());
-            }
             }
             else { min[i] = 0; }
         }
@@ -568,7 +569,7 @@ public static class Moogle
         {
             for (int k = 0; k < _directories.Length; k++)
             {
-                if(i>=_querySplit.Count) break;
+                if (i >= _querySplit.Count) break;
                 if (!(dictionarysBool[_directories[k]]))
                 {
                     for (int z = 0; z < _titleDocs[_directories[k]].Count; z++)
@@ -584,10 +585,10 @@ public static class Moogle
                 }
             }
         }
-        if(toreturn.Count!=0)
+        if (toreturn.Count != 0)
         {
             string suggestedExtra = toreturn[0];
-            if(toreturn.Count>=2)
+            if (toreturn.Count >= 2)
             {
                 for (int i = 1; i < toreturn.Count; i++)
                 {
